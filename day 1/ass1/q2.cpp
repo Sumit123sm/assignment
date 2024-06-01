@@ -1,10 +1,12 @@
 #include<iostream>
 using namespace std;
 
-int main()
-{
-    int n1=4;
-    int n2=6;
 
-    cout<<"sum of " <<n1<< "and "<<n2<<" is "<<(n1+n2)<<endl;
+int main(){                                                                  
+     int a= 5;
+     int b=5;
+     int c;        
+      c=a+b  ;                 
+      cout<<c; 
+     return 0;
 }
